@@ -70,7 +70,7 @@ function h($value){
   <meta charset="utf-8">
   <link href="css/dropzone.css" type="text/css" rel="stylesheet" />
   <script src="js/dropzone.js"></script>
-  <title>課題（画像のアップロード）</title>
+  <title>（画像のアップロード）</title>
 </head>
 <body>
   <h2>画像を投稿できる掲示板</h2>
